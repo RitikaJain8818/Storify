@@ -26,7 +26,7 @@ app.use(express.json())
 
 // Method override
 
-app.use{
+app.use(
     methodOverride(function (req, res) {
         if(req.body && typeof req.body === 'object' && '_method' in req.body){
             //look in unlencoded POST bodies and delete it
@@ -35,7 +35,7 @@ app.use{
             return method
         }
     })
-}
+)
 
 // Logging
 if(process.env.NODE_ENV === 'development'){
