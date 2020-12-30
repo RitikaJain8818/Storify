@@ -2,7 +2,8 @@
 
 **Technologies Used:** NodeJs | ExpressJs | MongoDB | Passportjs with a Google OAuth strategy
  
- User need to login using Google SignIn to access the dashboard:
+ 
+ User need to login using Google SignIn to access the dashboard:                                                                                         
  ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/login-page.png)
  ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/choose-mail-id.png)
 
