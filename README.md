@@ -1,4 +1,4 @@
-# Storify is a web application where users can create/add their own stories and can read the stories of other users. I have used the interative CKEditor which has cool in-build features.
+## Storify is a web application where users can create/add their own stories and can read the stories of other users. I have used the interative CKEditor which has cool in-build features.
 
 Functionalities:
 
