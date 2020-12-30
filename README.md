@@ -3,8 +3,8 @@
 **Technologies Used:** NodeJs | ExpressJs | MongoDB | Passportjs with a Google OAuth strategy
  
  User need to login using Google SignIn to access the dashboard:
- 
  ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/login-page.png)
+ ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/choose-mail-id.png)
 
 User will be directed to the dashboard:
  ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/empty%20dashboard.png)
@@ -18,7 +18,7 @@ User can create a private story as well by chossing the status accordingly from 
  Dashaboard page has both the stories created by user with Edit button and Delete Button.
   ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/dashboard%20with%20stories.png)
   
-  Now, if we click on the Count Wisely, single story page will be shown
+  Now, if we click on the When Adversity Knocks, single story page will be shown
   ![alt text](https://github.com/RitikaJain8818/Storify/blob/master/images/Screenshot%20(246).png)
 
 This is the side navbar for navigation to dashboard, public stories and for logging-out
